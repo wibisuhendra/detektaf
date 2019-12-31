@@ -1,0 +1,15 @@
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\bin\Debug\spellcheckerBIndo.exe.config
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\bin\Debug\spellcheckerBIndo.exe
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\bin\Debug\spellcheckerBIndo.pdb
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\bin\Debug\FuzzyString.dll
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\bin\Debug\UnidecodeSharpFork.dll
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\bin\Debug\UnidecodeSharpFork.pdb
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\obj\Debug\spellcheckerBIndo.Kamus.resources
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\obj\Debug\spellcheckerBIndo.Main.resources
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\obj\Debug\spellcheckerBIndo.Properties.Resources.resources
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\obj\Debug\spellcheckerBIndo.csproj.GenerateResource.cache
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\obj\Debug\spellcheckerBIndo.csproj.CoreCompileInputs.cache
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\obj\Debug\spellcheckerBIndo.csproj.CopyComplete
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\obj\Debug\spellcheckerBIndo.exe
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\obj\Debug\spellcheckerBIndo.pdb
+K:\semester4\promvis\praktikum\repos\spellcheckerBIndo\spellcheckerBIndo\obj\Debug\spellcheckerBIndo.csprojAssemblyReference.cache

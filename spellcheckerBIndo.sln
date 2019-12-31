@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spellcheckerBIndo", "spellcheckerBIndo\spellcheckerBIndo.csproj", "{E73DC1B6-8B88-4AA0-A5F3-4B95B1F2C350}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DETEKTAFinstaller", "DETEKTAFinstaller\DETEKTAFinstaller.vdproj", "{A3001BC2-4767-49A4-91FF-F89606A7F315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E73DC1B6-8B88-4AA0-A5F3-4B95B1F2C350}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{E73DC1B6-8B88-4AA0-A5F3-4B95B1F2C350}.All|Any CPU.Build.0 = Release|Any CPU
+		{E73DC1B6-8B88-4AA0-A5F3-4B95B1F2C350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73DC1B6-8B88-4AA0-A5F3-4B95B1F2C350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73DC1B6-8B88-4AA0-A5F3-4B95B1F2C350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73DC1B6-8B88-4AA0-A5F3-4B95B1F2C350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3001BC2-4767-49A4-91FF-F89606A7F315}.All|Any CPU.ActiveCfg = Release
+		{A3001BC2-4767-49A4-91FF-F89606A7F315}.Debug|Any CPU.ActiveCfg = Debug
+		{A3001BC2-4767-49A4-91FF-F89606A7F315}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {470339F7-C970-4E4F-837A-C14451A5B5EE}
+	EndGlobalSection
+EndGlobal
